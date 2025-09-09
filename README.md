@@ -3,13 +3,13 @@
 
 <img src="welcome.PNG" ></img>
 
-##Skills
+## Skills
 
 ### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,py,js,java)](https://skillicons.dev)
-### Databases
-### Other tools
 
+### Other tools
+[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,git,latex,linux,notion,ubuntu,vscode)](https://skillicons.dev)
 <!--
 **isalcode/isalcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
