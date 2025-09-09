@@ -6,7 +6,7 @@
 ##Skills
 
 ### Programming languages
-[![My Skills](https://skillicons.dev/iconsc,cpp,css,html,py,js,java,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,py,js,java,wasm)](https://skillicons.dev)
 ### Databases
 ### Other tools
 
